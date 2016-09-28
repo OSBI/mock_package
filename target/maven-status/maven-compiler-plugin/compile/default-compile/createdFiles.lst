@@ -47,6 +47,7 @@ net/sf/saxon/instruct/MockClass.class
 org/apache/ivy/MockClass.class
 org/openxmlformats/schemas/officeDocument/x2006/math/MockClass.class
 net/sf/saxon/om/MockClass.class
+net/sf/saxon/type/MockClass.class
 org/apache/ivy/core/resolve/MockClass.class
 org/apache/ivy/core/event/resolve/MockClass.class
 org/jdom/output/MockClass.class
