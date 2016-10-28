@@ -6,6 +6,7 @@ org/apache/ivy/core/report/MockClass.class
 org/apache/tools/ant/util/MockClass.class
 org/apache/poi/hslf/extractor/MockClass.class
 org/apache/tools/ant/types/MockClass.class
+org/w3c/dom/smil/MockClass.class
 org/apache/poi/wp/usermodel/MockClass.class
 org/python/util/MockClass.class
 net/sf/saxon/MockClass.class
@@ -36,6 +37,7 @@ org/hibernate/impl/MockClass.class
 org/junit/runner/notification/MockClass.class
 org/junit/runner/MockClass.class
 com/apple/mrj/jdirect/MockClass.class
+org/apache/jcp/xml/dsig/internal/dom/MockClass.class
 org/bouncycastle/cms/bc/MockClass.class
 org/apache/ivy/core/event/MockClass.class
 org/apache/poi/hslf/model/MockClass.class
@@ -44,6 +46,7 @@ org/apache/ivy/core/module/descriptor/MockClass.class
 org/hibernate/stat/MockClass.class
 com/sun/image/codec/jpeg/MockClass.class
 net/sf/saxon/instruct/MockClass.class
+org/apache/log/format/MockClass.class
 org/apache/ivy/MockClass.class
 org/openxmlformats/schemas/officeDocument/x2006/math/MockClass.class
 net/sf/saxon/om/MockClass.class
@@ -76,12 +79,14 @@ org/jdom/MockClass.class
 org/bouncycastle/cert/ocsp/MockClass.class
 sun/tools/javac/MockClass.class
 org/apache/tools/ant/MockClass.class
+org/apache/xml/resolver/MockClass.class
 javax/servlet/jsp/MockClass.class
 org/junit/internal/MockClass.class
 org/bouncycastle/operator/MockClass.class
 org/apache/ivy/core/event/download/MockClass.class
 org/apache/ivy/core/settings/MockClass.class
 net/sf/saxon/event/MockClass.class
+org/apache/log/util/MockClass.class
 org/jdom/input/MockClass.class
 org/openxmlformats/schemas/schemaLibrary/x2006/main/MockClass.class
 com/thoughtworks/xstream/MockClass.class
